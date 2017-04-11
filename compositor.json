@@ -61,8 +61,8 @@
     },
     {
       "component": "header",
-      "heading": "test_site",
-      "subhead": null,
+      "heading": "Hi, I'm Sandy",
+      "subhead": "I'm a product designer based in Mexico City",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -74,7 +74,9 @@
           "user": "s4ndee",
           "repo": "test_site"
         }
-      ]
+      ],
+      "slug": "",
+      "text": "Testing some other text here"
     },
     {
       "component": "article",
