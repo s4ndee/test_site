@@ -76,7 +76,8 @@
         }
       ],
       "slug": "",
-      "text": "Testing some other text here"
+      "text": "Testing some other text here",
+      "links": []
     },
     {
       "component": "article",
