@@ -91,11 +91,11 @@
       "links": [
         {
           "href": "https://github.com/s4ndee/test_site",
-          "text": "GitHub"
+          "text": "link2"
         },
         {
           "href": "https://github.com/s4ndee",
-          "text": "s4ndee"
+          "text": "link3"
         }
       ]
     }
