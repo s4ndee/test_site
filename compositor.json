@@ -62,7 +62,7 @@
     {
       "component": "header",
       "heading": "Hi, I'm Sandy",
-      "subhead": "I'm a product designer based in Mexico",
+      "subhead": "I'm a product designer based in SF",
       "children": [
         {
           "component": "ui/TweetButton",
